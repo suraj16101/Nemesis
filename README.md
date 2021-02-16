@@ -145,3 +145,9 @@ We understood the importance of creative ideas and innovation in the success of 
 This project also made us realise the importance of teamwork for the success of a project. Creating a flexible environment is important for the flow of ideas and constructive criticism helps bring out better results.<br/><br/>
 Thus, we realised that imagination, diligence, perseverance and amity among team members are important for the successful launch of the game.<br/><br/>
 
+###### Project Code (*Request for access*)
+https://drive.google.com/file/d/1Fh-3DVFNyRxW5mhmfuB1YpvCMYimAwpU/view?usp=sharing
+
+###### Game bundled version for Windows
+https://drive.google.com/file/d/1N0LWeKuZKH7zSTKji3QiRYgdXRTYZBl6/view?usp=sharing
+
